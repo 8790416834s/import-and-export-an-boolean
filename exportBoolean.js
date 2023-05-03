@@ -1,2 +1,2 @@
 const a = true;
-export.default = a;
+module.exports = a;
