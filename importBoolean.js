@@ -1,2 +1,2 @@
-import a from "./exportBoolean";
+const a = require("./exportBoolean");
 console.log(a);
